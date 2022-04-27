@@ -1,5 +1,5 @@
 # neet
 I am neet.
 
-## LICENCE
+## LICENSE
 MIT.
